@@ -12,5 +12,7 @@ public class Main {
 
         // Número complementario
         System.out.println("¡Buena suerte en el sorteo!");
+
+        System.out.println("Cambio realizado desde GitHub.");
     }
 }
