@@ -18,5 +18,8 @@ public class Main {
         System.out.println("Suma de principales: " + suma);
         
         System.out.println("¡Suerte con el sorteo, DAM!");
+        
+        System.out.println("¡Suerte en el sorteo, DAM!");
+
     }
 }
