@@ -5,12 +5,12 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
         //Investiga el uso de random y genera por pantalla los números de la lotería primitiva.
-        Random random = new Random();
+        Random random = new Random(436);
 
         System.out.println("Números de la Lotería Primitiva:");
         // Genera 5 números principales
 
         // Número complementario
-
+        System.out.println("¡Buena suerte en el sorteo!");
     }
 }
